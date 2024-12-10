@@ -1,0 +1,28 @@
+Welcome to the BMI Calculator!
+
+Please enter your weight in kilograms (kg): 50
+Now, enter your height in meters (m): 1.8
+
+Your BMI is: 15.43
+Based on your BMI, you are classified as: Underweight.
+
+Would you like to check another person's BMI? (y/n): y
+
+Please enter your weight in kilograms (kg): 89
+Now, enter your height in meters (m): 1.8
+
+Your BMI is: 27.47
+Based on your BMI, you are classified as: Overweight.
+
+Would you like to check another person's BMI? (y/n): y
+
+Please enter your weight in kilograms (kg): 74
+Now, enter your height in meters (m): 1.7
+
+Your BMI is: 25.61
+Based on your BMI, you are classified as: Overweight.
+
+Would you like to check another person's BMI? (y/n): n
+Thank you for using the BMI Calculator
+
+Process finished with exit code 0
